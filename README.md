@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adityaprabhu03
-- 👀 I’m interested in machine learning applications and IoT.
+- 👋 Hi, I’m Aditya Prabhu
+- 👀 I’m interested in machine learning and IoT.
 - 🌱 I’m currently learning Computer Engineering at the University of Minnesota, Twin Cities
 - 💞️ I’m looking to collaborate on sharing projects and code through GitHub!
 - 📫 How to reach me: andromeda6761@gmail.com
